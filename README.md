@@ -2,7 +2,7 @@
 description: 这是HelpHub技术部门学习关于小程序和网页的一篇导引文章。
 ---
 
-# HelpHub Develop Guide
+# HelpHub Web Develop Guide
 
 ## 开天辟地的第一条路——请先阅读
 
@@ -19,6 +19,4 @@ Web 建站技术中，HTML、HTML5、XHTML、CSS、SQL、JavaScript、PHP、ASP.
   * 结构
   * API调用方式
   * 官方文档：
-
-
 
