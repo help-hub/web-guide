@@ -2,7 +2,7 @@
 description: 这是HelpHub技术部门学习关于小程序和网页的一篇导引文章。
 ---
 
-# HelpHub Web Develop Guide
+# HelpHub Develop Guide
 
 ## 开天辟地的第一条路——请先阅读
 
