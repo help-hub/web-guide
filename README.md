@@ -7,7 +7,9 @@ description: 这是HelpHub技术部门学习关于小程序和网页的一篇导
 ## GitHub Excercise
 
 https://lab.github.com/githubtraining/first-day-on-github
+
 https://lab.github.com/githubtraining/first-week-on-github
+
 https://gitexercises.fracz.com/
 
 ## 开天辟地的第一条路——请先阅读
